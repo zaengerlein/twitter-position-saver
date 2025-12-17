@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.2
 // @description  A Tampermonkey script that saves your timeline position and returns to it on demand
-// @author       Claude
+// @author       Goeran Zängerlein w/ support from Claude
 // @license      MIT
 // @match        https://twitter.com/*
 // @match        https://x.com/*
